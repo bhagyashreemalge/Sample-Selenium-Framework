@@ -25,11 +25,11 @@ public class VerifyWebElements extends ReuseComponents {
 		log.info("driver initialized and browser is maximized");
 	}
 	
-	@Test(enabled=false)
+	@Test
 	public void verifyWebElement1()
 	{
-		Assert.assertTrue(false);
-		log.error("could not verify Element 1");
+		Assert.assertTrue(true);
+		log.error("could not verify the Element on web");
 	}
 	
 	@AfterTest
