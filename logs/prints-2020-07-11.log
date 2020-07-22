@@ -1,0 +1,14 @@
+22:42:34.071 [main] INFO  java.util.Base64 - creating new customer failed
+22:42:40.265 [main] INFO  java.util.Base64 - permitted user tried to login
+22:42:41.622 [main] INFO  java.util.Base64 - create account button object got created
+22:42:41.984 [main] INFO  java.util.Base64 - sam@isos.com passed to create account page
+22:42:42.323 [main] INFO  java.util.Base64 - creating new customer failed
+22:43:08.783 [main] INFO  java.util.Base64 - clicked on best sellers tab
+22:43:11.102 [main] DEBUG java.util.Base64 - create amazon account button text validated
+22:43:18.439 [main] INFO  java.util.Base64 - navigation bar on home page is displayed
+22:43:18.826 [main] INFO  java.util.Base64 - closing browser
+22:43:51.330 [main] INFO  java.util.Base64 - driver initialized and browser is maximized
+22:45:19.850 [main] DEBUG java.util.Base64 - clicked on books link
+22:45:48.104 [main] INFO  java.util.Base64 - searched for laptops
+22:45:48.390 [main] INFO  java.util.Base64 - closing browser
+22:46:26.166 [main] INFO  java.util.Base64 - driver initialized and browser is maximized

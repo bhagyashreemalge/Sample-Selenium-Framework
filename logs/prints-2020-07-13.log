@@ -1,0 +1,13 @@
+18:20:46.886 [main] INFO  java.util.Base64 - navigation bar on home page is displayed
+18:20:46.998 [main] INFO  java.util.Base64 - closing browser
+18:20:55.772 [main] INFO  java.util.Base64 - driver initialized and browser is maximized
+18:21:09.252 [main] INFO  java.util.Base64 - searched for laptops
+18:21:09.355 [main] INFO  java.util.Base64 - closing browser
+18:21:17.960 [main] INFO  java.util.Base64 - driver initialized and browser is maximized
+18:21:18.057 [main] INFO  java.util.Base64 - closing browser
+18:21:41.411 [main] INFO  java.util.Base64 - initialized driver with chrome browser and URL -window maximized
+18:21:46.529 [main] INFO  java.util.Base64 - not permitted user tried to login
+18:21:47.180 [main] INFO  java.util.Base64 - create account button object got created
+18:21:47.352 [main] INFO  java.util.Base64 - bhagyashree@isos.com passed to create account page
+18:21:47.439 [main] INFO  java.util.Base64 - creating new customer failed
+18:21:50.335 [main] INFO  java.util.Base64 - permitted user tried to login

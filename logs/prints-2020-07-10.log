@@ -1,0 +1,14 @@
+17:32:51.700 [main] INFO  java.util.Base64 - closing browser
+17:33:03.477 [main] INFO  java.util.Base64 - driver initialized and browser is maximized
+17:33:17.804 [main] DEBUG java.util.Base64 - clicked on books link
+17:33:35.159 [main] INFO  java.util.Base64 - searched for laptops
+17:33:36.159 [main] INFO  java.util.Base64 - closing browser
+17:33:49.254 [main] INFO  java.util.Base64 - driver initialized and browser is maximized
+17:33:51.510 [main] INFO  java.util.Base64 - closing browser
+18:09:12.645 [main] INFO  java.util.Base64 - initialized driver with chrome browser and URL -window maximized
+18:09:16.477 [main] DEBUG java.util.Base64 - create amazon account button text validated
+18:09:16.477 [main] INFO  java.util.Base64 - not permitted user tried to login
+18:09:19.294 [main] DEBUG java.util.Base64 - create amazon account button text validated
+18:09:19.294 [main] INFO  java.util.Base64 - permitted user tried to login
+18:09:32.967 [main] INFO  java.util.Base64 - clicked on best sellers tab
+18:09:33.053 [main] INFO  java.util.Base64 - navigation bar on home page is displayed
